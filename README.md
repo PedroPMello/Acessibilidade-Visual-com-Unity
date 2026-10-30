@@ -5,9 +5,11 @@ Protótipo assistivo para **Unity (Universal Render Pipeline)** que visa ajudar 
 > Esta é a **versão do artigo** (tag `artigo-unijui-2026`), com suporte apenas a deuteranopia. Uma versão estendida, desenvolvida para o TCC, será publicada neste repositório.
 
 📄 **Artigo:** *Remapeamento de cores e silhuetas como recursos de acessibilidade para deuteranopia em ambientes virtuais interativos 3D*, Pedro Pizzolato Mello e Maikon Cismoski dos Santos. XXXIV Seminário de Iniciação Científica, Salão do Conhecimento UNIJUÍ 2026.
+
 🎮 **Demo (Unity Play):** [https://play.unity.com/en/games/0570218b-f717-41e2-8e45-f51405040eee/prototipo-acessibilidade-visual]
 
 [Comparativo de intensidades do filtro](docs/figura3.png)
+
 [Cena sem e com silhueta](docs/figura4.png)
 
 ## Sumário
